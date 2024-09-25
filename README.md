@@ -15,7 +15,6 @@ This project utilizes **YOLOv8**, a state-of-the-art object detection model, to 
 - [Usage](#usage)
 - [Model](#model)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 ```
